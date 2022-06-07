@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @e-NAZ
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning backend development with Node.Js
-- 💞️ I’m looking to collaborate on cloud development projects related to CI/CD pipelines
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to contribute to OSS
 - 📫 How to reach me: victoriorox@gmail.com
 
 <!---
