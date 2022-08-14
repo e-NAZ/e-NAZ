@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @e-NAZ
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Cloud Development
 - 💞️ I’m looking to contribute to OSS
 - 📫 How to reach me: victoriorox@gmail.com
 
